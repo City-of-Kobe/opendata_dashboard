@@ -1,4 +1,4 @@
-# opendata_dashboard
+# ファイル構成
 ### data/cplwr.json
 データセット登録状況（SPARQLエンドポイントからダウンロード）
 ### data/ga.csv 
