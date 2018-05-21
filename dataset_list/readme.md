@@ -17,7 +17,7 @@ CKAN APIではjson形式で提供されるため、それをエクセルのク�
 1. 「<https://data.city.kobe.lg.jp/data/api/action/current_package_list_with_resources?limit=200>」と入力しOKをクリック
 1. クエリエディタが開くので、resultの行の「List」の文字列がリンクになっているのでクリックする。
 ![説明2](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst2.png)
-1. 列のタイトル（「一覧」と表示されているところ）を右クリックして、テーブルに変換をクリック。次に表示されるテーブルへの変換のダイアログのそのままOKをクリック。
+1. 列のタイトル（「一覧」と表示されているところ）を右クリックして、テーブルに変換をクリック。次に表示されるテーブルへの変換のダイアログはそのまま「OK」をクリック。
 ![説明3](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst3.png)
 1. Column1を展開して、テーブルの内容を取得
 ![説明4](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst4.png)
