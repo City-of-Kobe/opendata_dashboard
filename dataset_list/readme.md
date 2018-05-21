@@ -19,7 +19,6 @@ CKAN APIではjson形式で提供されるため、それをエクセルのク�
 ![説明2](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst2.png)
 1. 列のタイトル（「一覧」と表示されているところ）を右クリックして、テーブルに変換をクリック。次に表示されるテーブルへの変換のダイアログのそのままOKをクリック。
 ![説明3](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst3.png)
-1. Column1を展開
+1. Column1を展開して、テーブルの内容を取得
 ![説明4](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst4.png)
-1. 項目を整理
-groupsやorganizationなどの項目も同様に展開。不要な項目の削除や並べ替えを行う。適宜、項目名称の変更を行う。
+1. groupsやorganizationなどの項目も同様に展開。不要な項目の削除や並べ替えを行う。適宜、項目名称の変更を行う。
