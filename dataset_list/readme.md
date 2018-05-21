@@ -1,6 +1,7 @@
 # データセット一覧を作成するためのエクセルツール
 ## 使い方
 エクセルファイルを開いてクエリを更新してください。
+※利用するには、EXCEL 2016以降またはPowerQeryをインストールしたExcelが必要です。
 
 ![説明1](https://raw.githubusercontent.com/City-of-Kobe/opendata_dashboard/master/dataset_list/img/datasetlist_inst1.png)
 
